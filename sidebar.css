@@ -1,4 +1,4 @@
-.sidebar{
+nav{
     position: fixed;
     left: 0;
     top: 60px;
@@ -9,11 +9,11 @@
     align-items: center;
     background-color: #fff;
 }
-.sidebar img {
+nav img {
     height: 25px;
     width: 25px;
 }
-.sidebar div {
+nav div {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -22,15 +22,15 @@
     justify-content: center;
     cursor: pointer;
 }
-.sidebar div:hover{
+nav div:hover{
     background-color: rgba(188, 188, 188, 0.378);
 }
-.sidebar p {
+nav p {
     font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(78, 78, 78);
     margin-top: 5px;
 }
-.sidebar .first {
+nav .first {
     margin-top: 5px;
 }
