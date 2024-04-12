@@ -127,6 +127,7 @@ header .right .my-channel {
   margin-right: 15px;
   margin-top: -3px;
   border-radius: 20px;
+  object-fit: cover;
 }
 
 
