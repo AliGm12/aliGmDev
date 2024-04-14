@@ -75,14 +75,10 @@ body {
     width: 20px;
   }
 }
-
-.box1 {
-  margin: 0;
-}
+.box1,
 p {
   margin: 0;
 }
-
 .box1 .img img {
   width: 100%;
 }
